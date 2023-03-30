@@ -3,13 +3,7 @@ let h2 = document.querySelector('h2')
 let h2Second = h2.nextElementSibling
 h2Second.innerHTML = 'DOM method description'
 console.log(h2Second);
-//Завдання 2
-/*let a = document.querySelectorAll('a')
-console.log(a);
-const divyArray = Array.from(a)
-console.log(divyArray);
-console.log(document.querySelectorAll('h2'));
-*/
+
 
 //Завдання 3
 
